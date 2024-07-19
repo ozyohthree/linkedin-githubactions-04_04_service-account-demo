@@ -1,1 +1,3 @@
-# linkedin-githubactions-04_04_service-account-demo
+# service-account-demo
+
+This repo is for demonstrating service account configuration for Github Actions
